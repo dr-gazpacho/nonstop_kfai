@@ -40,7 +40,7 @@ All the actual programming and software is done, so you’ll only need to worry 
     * Connect Column B Row 28 (SDA pin) to Column B Row 5
     * Connect Column B Row 29 (SCL pin) to Column B Row 6
 4. Attach antenna to the pot if you need a signal boost.
-![Attach antenna](/images/r_2.jpg)
+![Attach antenna](/images/r_4.jpg)
 *I didn't solder this in, you can if you want to. Or you can strip back the wire a little and just hand tighten it around the pot*
 5. Plug the Micro USB into the Pico and the other end into a power source (computer, portable battery, power brick, etc). A green red light on the radio module should turn on if everything is plugged in right
 6. Plug in your headphones into the TRRS Jack and the other end into your ears - you might need to only plug in your headphones ¾ of the way in (if they have a microphone)
