@@ -2,7 +2,7 @@
 One station. One volume.
 
 ## Intro
-You will set up a tiny little analog radio that's powered by a microcontroller. The radio module has a built in FM reciever and a 1/8" headphone jack output. You can listen to the radio without Wi-Fi when it's all assembed and powered on. It's kinda funny when you think about it - a computer powering an analog radio that doesn't need Wi-Fi. Whatever. The radio is set to one station (KFAI of course) and you cannot change that or the volume.
+You will set up a tiny little analog radio that's powered by a microcontroller. The radio module has a built in FM receiver and a 1/8" headphone jack output. You can listen to the radio without Wi-Fi when it's all assembled and powered on. It's kinda funny when you think about it - a computer powering an analog radio that doesn't need Wi-Fi. Whatever. The radio is set to one station (KFAI of course) and you cannot change that or the volume.
 
 ## What This Kit Includes
 - 1x Raspberry Pi Pico H
